@@ -2,15 +2,15 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 //import ./stylesNew.css;
-import Fcomponent from './Fcomponent';
-import Ccomponent2 from './Ccomponent2';
+import Fcomponent3 from './Fcomponent3';
+import Ccomponent3 from './Ccomponent3';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
        
-        <Ccomponent2/>
+        <Ccomponent3/>
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
