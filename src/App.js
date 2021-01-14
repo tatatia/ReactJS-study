@@ -3,14 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 //import ./stylesNew.css;
 import Fcomponent from './Fcomponent';
-import Ccomponent from './Ccomponent';
+import Ccomponent2 from './Ccomponent2';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
        
-        <Ccomponent/>
+        <Ccomponent2/>
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>

@@ -1,5 +1,9 @@
 .hello{
     color: yellow;
     font-size: 60;
-    border: 3px solid white;
+    border: 3px solid rgb(204, 97, 97);
+}
+.off{
+    color: tomato;
+    background-color: violet;
 }
